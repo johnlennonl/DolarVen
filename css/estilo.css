@@ -68,6 +68,17 @@ hr {
   
 }
 
+em {
+    font-weight: bold;
+}
+
+.logoDolarvene {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+}
+
 
 
 
